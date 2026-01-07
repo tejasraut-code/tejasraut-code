@@ -11,7 +11,10 @@ Email Me 👉 ✉️ **rauttejas772@gmail.com** For Collaboration/Project or Any
 - 📫 **How to reach me:** rauttejas772@gmail.com
 - 😄 **Pronouns:** Tejas
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-  
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tejasraut-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-raut-code) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rauttejas772@gmail.com) 
 
@@ -21,9 +24,6 @@ Email Me 👉 ✉️ **rauttejas772@gmail.com** For Collaboration/Project or Any
 ![](https://github-readme-stats.vercel.app/api?username=tejasraut-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tejasraut-code&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasraut-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tejasraut-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
